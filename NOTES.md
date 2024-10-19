@@ -1,3 +1,6 @@
+#devoxx youtube video
+https://www.youtube.com/watch?v=u5foQULTxHM
+
 # Notes
 
 ## Goals
